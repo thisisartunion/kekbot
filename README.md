@@ -7,7 +7,7 @@ ___
 
 
 > Inner workings (which includes scripts, embeds, and any other intellectual content included within this repository and/or any of its derivatives within any form.) <br>
-is copyright &copy; of kek, kekboi, Art Union org. and may not be modified unless specified otherwise by its copyright holders. <br> Any merged requests' copyright(s) are to be merged and/or superceeded with/by copyright &copy; of kek, kekboi, Art Union org.
+is/are copyright &copy; of kek, kekboi, Art Union org. and may not be modified unless specified otherwise by its copyright holder(s). <br> Any merged request(s)'s copyright(s) are to be merged and/or superceeded with/by copyright &copy; of kek, kekboi, Art Union org.
 
 
 ___
@@ -18,6 +18,14 @@ ___
 - [ ] Improve dailies, change to a non session based (AKA, persistent database) database system for the project, 
 ~~then turn it into more of a qna setup, kinda like yui's ras system~~ <br> Too convoluted, alrd tried this out with archv. 
 
+- [ ] Chat tracker 
+
+- [ ] Auto portfolio archival
+
+- [ ] DB sided portfolios 
+
+- NSFW filter thing
+
 - [x] Create an automated system for porto ordering (Prolly detect if a message is sent in a porto that is in porto category and contains image embed(s)) 
 > Done. 3 lines minimum for writing, one attachment, or a link otherwise.
 
@@ -26,12 +34,6 @@ ___
 
 - [x] Auto prize distribution
 > unb api is using outdated Axios, will update later, might also make a pull req ifn't lazy.
-
-- [ ] Chat tracker 
-
-- [ ] DB sided portfolios 
-
-- [ ] Auto portfolio archival
 
 - [ ] Make an event command based on daily setup, remove daily setup command entirely afterwards 
 
