@@ -3,13 +3,13 @@ const fs = require("fs");
 const moment = require(`moment`);
 const client = new Discord.Client();
 const isImageUrl = require("is-image-url");
-const token = "NzE3NTcxNDg0NjI0NzQ4NjA1.XtcQhQ.Utuyk7w2yMgwPLKdrtVkaPTWFCk";
+const token = "";
 const logger = fs.createWriteStream("setmsgslog.txt", {
   flags: "a",
 });
 const Unb = require(`unb-api`).Client;
 const unb = new Unb(
-  `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfaWQiOiI4MDM5MzM3Mzc4MjQ5NDU1ODAiLCJpYXQiOjE2MTE3NDMxMzl9.JSJZzEcAuBY29RjRvdYzyrwyRNlERQCTSr-cUfGt510`
+  ``
 );
 const deet = new Date();
 const prefix = "kek!";
