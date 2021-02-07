@@ -16,7 +16,7 @@ ___
 
 ### To-do (priority = more-or-less the position, kinda):
 - [ ] Improve dailies, change to a non session based (AKA, persistent database) database system for the project, 
-~~then turn it into more of a qna setup, kinda like yui's ras system~~ <br> Too convoluted, alrd tried this out with archv. 
+~~then turn it into more of a qna setup, kinda like yui's ras system~~ <br> Too convoluted (the qna thing), alrd tried this out with archv. 
 
 - [ ] Chat tracker 
 
@@ -24,7 +24,9 @@ ___
 
 - [ ] DB sided portfolios 
 
-- NSFW filter thing
+- [ ] NSFW filter thing
+
+- [ ] Search for a host to permanently host this on, cached memory wouldn't be a problem any more hopefully by this point. Would help transfer of ownership as well. 
 
 - [x] Create an automated system for porto ordering (Prolly detect if a message is sent in a porto that is in porto category and contains image embed(s)) 
 > Done. 3 lines minimum for writing, one attachment, or a link otherwise.
@@ -42,8 +44,6 @@ ___
 - [ ] Make a command module handler
 
 - [ ] Improve coding overall, would probably take the longest time, so dat why tis here 
-
-- [ ] Search for a host to permanently host this on, cached memory wouldn't be a problem any more hopefully by this point. Would help transfer of ownership as well. 
 
 - [ ] Add the infinite emoji library thing, (concept is in local, dont even ask abt it.)
 
