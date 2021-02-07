@@ -24,9 +24,11 @@ ___
 
 - [ ] DB sided portfolios 
 
+- [ ] Tidy up the repo
+
 - [ ] NSFW filter thing
 
-- [ ] Search for a host to permanently host this on, cached memory wouldn't be a problem any more hopefully by this point. Would help transfer of ownership as well. 
+- [ ] Search for a host to permanently host this on **for free**, <br>cached memory wouldn't be a problem any more hopefully by this point. Would help transfer of ownership as well. 
 
 - [x] Create an automated system for porto ordering (Prolly detect if a message is sent in a porto that is in porto category and contains image embed(s)) 
 > Done. 3 lines minimum for writing, one attachment, or a link otherwise.
