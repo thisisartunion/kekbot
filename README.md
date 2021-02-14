@@ -2,7 +2,7 @@
 
     Kekbot, main bot for Art Union org.
 
-usage is licensed under CC-BY-4.0, <br>
+usage is licensed under CC-BY-NC-SA-4.0, <br>
 falls back to Apache-2.0 if specified otherwise directly by kekboi, administrator of Art Union org.
 
 ---
