@@ -13,6 +13,9 @@ falls back to Apache-2.0 if specified otherwise directly by kekboi, administrato
 
 ---
 
+> Usage <br>
+Change config.json with config and prefix.
+
 ### To-do (priority = more-or-less the position, kinda):
 
 - [ ] Forgot to add this, starboard, way overdue, P A N I K, ETA. next week, start of next-next week at worst.
