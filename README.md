@@ -14,7 +14,8 @@ falls back to Apache-2.0 if specified otherwise directly by kekboi, administrato
 ---
 
 > Usage <br>
-Change config.json with config and prefix.
+
+Change config.json with token and prefix.
 
 ### To-do (priority = more-or-less the position, kinda):
 
