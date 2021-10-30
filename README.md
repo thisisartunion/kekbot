@@ -19,7 +19,8 @@ Change config.json with token and prefix.
 
 ### To-do (priority = more-or-less the position, kinda):
 
-- [ ] Forgot to add this, starboard, way overdue, P A N I K, ETA. next week, start of next-next week at worst.
+- [x] Forgot to add this, starboard, way overdue, P A N I K, ETA. next week, start of next-next week at worst. 
+> Resolved by using another bot, lmao
 
 - [ ] Improve dailies, change to a non session based (AKA, persistent database) database system for the project,
       ~~then turn it into more of a qna setup, kinda like yui's ras system~~ <br> Too convoluted (the qna thing), alrd tried this out with archv.
